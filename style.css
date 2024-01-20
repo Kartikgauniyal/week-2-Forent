@@ -19,7 +19,13 @@
     display: flex;
     align-items: center;
     cursor: pointer;
-}
+    }
+.Logo{ 
+    color: white;
+    font-size: 48px; 
+       font-weight: 700; 
+       cursor: pointer;
+    }
 .btn{
     width:100px;
     font-size: medium;
